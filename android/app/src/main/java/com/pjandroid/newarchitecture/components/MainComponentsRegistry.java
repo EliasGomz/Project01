@@ -1,4 +1,4 @@
-package com.bktareas.newarchitecture.components;
+package com.pjandroid.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

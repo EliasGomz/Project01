@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface BKTareasTests : XCTestCase
+@interface PjAndroidTests : XCTestCase
 
 @end
 
-@implementation BKTareasTests
+@implementation PjAndroidTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
